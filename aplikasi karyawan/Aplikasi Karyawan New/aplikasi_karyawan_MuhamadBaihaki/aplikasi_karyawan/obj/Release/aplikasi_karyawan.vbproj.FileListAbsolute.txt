@@ -1,0 +1,13 @@
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Release\mahasiswa.accdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Release\aplikasi_karyawan.exe.config
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Release\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Release\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Release\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\ResolveAssemblyReference.cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.Form1.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.Form2.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.Resources.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Release\aplikasi_karyawan.pdb

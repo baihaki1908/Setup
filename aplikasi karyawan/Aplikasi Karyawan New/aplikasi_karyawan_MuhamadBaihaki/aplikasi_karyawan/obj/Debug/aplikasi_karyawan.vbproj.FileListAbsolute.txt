@@ -1,0 +1,168 @@
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\Tugas S3\ss\aplikasi_karyawan\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+D:\Tugas S3\ss\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+D:\Tugas S3\Tugas New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+G:\Word-P2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+G:\Word-P2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+G:\Word-P2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+G:\Word-P2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_lembur.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\mahasiswa.accdb
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form2.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_gaji.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_lembur.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+D:\Tugas New s3\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_lembur.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_cetak_gaji.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_gaji.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_lembur.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+D:\Tugas New s3\visual\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe.config
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.exe
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.pdb
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\bin\Debug\aplikasi_karyawan.xml
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\ResolveAssemblyReference.cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form1.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formdelete.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Formedit.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Form_jabatan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_cetak_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_cetak_jabatan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Frm_lembur.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.Resources.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.t_karyawan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.vbproj.GenerateResource.Cache
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_rekap_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_rekap_cetak_gaji.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.tambah_karyawan.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_menu.resources
+E:\M.Baihaki\ICS001\Visual Programming 2\aplikasi karyawan crystal report\Aplikasi Karyawan New\aplikasi_karyawan_MuhamadBaihaki\aplikasi_karyawan\obj\Debug\aplikasi_karyawan.frm_absensi.resources
